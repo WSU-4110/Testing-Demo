@@ -10,6 +10,9 @@ def subtract(a, b):
     return a - b
 
 
+def another(a,b):
+    return a**b
+
 
 def add(a, b):
     return a + b
